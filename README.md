@@ -5,13 +5,14 @@ It involves collecting data from an API, storing it locally, processing and anal
 
 ---
 
-## 📂 Project Structure
-
+## Project Structure
+```
 ├── raw_data/ # Folder for raw files fetched from the API
 ├── db/ # SQLite3 database files
 ├── Working Notebook.ipynb # Jupyter notebook used for exploration and development
 ├── final_project.py # Finalized, cleaned-up Python script
 └── README.md # Project documentation
+```
 
 
 ---
@@ -43,14 +44,14 @@ It involves collecting data from an API, storing it locally, processing and anal
 
 ---
 
-## 🗃️ Database
+## Database
 
 - Database Engine: **SQLite3**
 - Location: `db/stocks.db`
 
 ---
 
-## 🧩 How to Run
+## How to Run
 
 ```bash
 # Clone the repository
